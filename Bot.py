@@ -10,8 +10,7 @@ from os import environ;
 client = discord.Client()  # starts the discord client.
 url = 'http://www.phys.uoa.gr/grammateia.html'
 sleepTime = 3600
-curLast = ('Θέσεις Πρακτικής Άσκησης στον Οργανισμό Ανοιχτών Τεχνολογιών (ΕΕΛΛΑΚ)', 'proboli-newn/8eseis-praktikis-askhshs-ston-organismo-anoixton-texnologion-eellak.html')
-
+curLast = 'init'
 newsMessage = '>>> **!!Holly Shit!!** \nΝέα Ανακοίνωση στο εξτρα φοβερό ιστότοπο της εξτρα φοβερής σχολής μας. \nΚαι σας ακούω να ρωτάτε: *Ποιό είναι το θέμα της;* Ε ΠΑΡΤΟ:\n\n'
 
 
