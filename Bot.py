@@ -9,7 +9,7 @@ from os import environ;
 
 client = discord.Client()  # starts the discord client.
 url = 'http://www.phys.uoa.gr/grammateia.html'
-sleepTime = 3600
+sleepTime = 7200
 curLast = 'init'
 newsMessage = '>>> Νέα ανακοίνωση από την σελίδα της γραμματείας του φυσικού :\n'
 
