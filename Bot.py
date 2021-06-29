@@ -25,7 +25,7 @@ async def monitor_webpage():
     global curLast
 
     await client.wait_until_ready()
-    channel = client.get_channel(593164830689722398)
+    channel = client.get_channel(632490309443387392)
 
     #Check every hour or so
     while(True):
